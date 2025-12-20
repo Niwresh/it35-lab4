@@ -7,7 +7,7 @@ import {
     IonTitle, 
     IonToolbar 
 } from '@ionic/react';
-import FeedContainer from '../../components/FeedContainer';
+import FeedContainer from '../../components/JournalContainer';
 
 const Feed: React.FC = () => {
   return (
